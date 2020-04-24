@@ -1,0 +1,33 @@
+
+
+.bg-light
+	{
+		background-color:#02aadd;
+	}
+/**
+*override css's
+*/
+.bg-light
+{
+	background-color:#02aadd!important;
+}
+
+
+.margin-top-20
+	{
+		margin-top:20px
+	}
+
+
+.feacher-img
+	{
+		max-height:200px
+	}
+
+
+.footer-bottom
+	{
+		padding:20px;
+		margin-top20px;
+		background:#009CE0
+	}
